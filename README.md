@@ -17,5 +17,5 @@ Q3a:
 The code defines a function to convert heights from inches to centimeters. It prompts the user to enter the number of customers and their heights in inches, converting and storing the values. The code handles invalid input and then prints both the input heights in inches and the corresponding converted heights in centimeters.
 Q3b: 
 The code initializes a list of heights in inches, prints the original list, and then creates a new list by converting each height to centimeters (multiplied by 2.54). The code prints both the original list in inches and the new list representing the heights in centimeters.
-# Recording of ICP1 (Video link): 
+# Recording of ICP2 (Video link): 
 https://youtu.be/7FIybRw69Ds
