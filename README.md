@@ -19,3 +19,13 @@ Q3b:
 The code initializes a list of heights in inches, prints the original list, and then creates a new list by converting each height to centimeters (multiplied by 2.54). The code prints both the original list in inches and the new list representing the heights in centimeters.
 # Recording of ICP2 (Video link): 
 https://youtu.be/7FIybRw69Ds
+
+# Neural_Networks_Deeplearning Assignment 3
+Neural_Network_ICP2_700748694 summary:
+Q1: 
+The code illustrates inheritance by defining an Employee class that has a subclass called FullTimeEmployee. It includes a static method to determine the average wage of a list of employees called calculate_average_salary. Both classes contain an initialization method called init, and FullTimeEmployee uses super() to initialize the parent class. The total number of workers is tracked through the usage of a class variable called total_employees. Instances of both classes are generated, added to a list, and the average wage is computed and shown in the main function. A dedicated method, display_fulltime_benefits, is introduced by the FullTimeEmployee class to emphasize benefits for full-time employees.
+
+Q2: 
+The code generates a random 1D array, reshapes it into a 2D array, finds the indices of maximum values in each row, and replaces those maximum values with 0 in the respective rows.
+# Recording of ICP3 (Video link): 
+https://youtu.be/UUfwtnK8uqo
