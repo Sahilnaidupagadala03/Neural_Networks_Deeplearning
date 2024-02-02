@@ -51,5 +51,5 @@ Y: This line extracts the target variable from your Data Frame. It selects all r
 c: LinearRegression is a simple linear regression model used for predicting a target variable based on one or more independent variables. regressor.fit(X_Train, Y_Train): This line trains (fits) the linear regression model using the training data. It takes the training features X_Train and the corresponding target variable Y_Train to learn the coefficients of the linear regression equation. Y_Pred line predicts the target variable (Y_Pred) for the testing set X_Test using the trained linear regression model. 
 d: mean_squared_error() function sklearn.metrics will give the mean swaure value which will be the error.
 e: Xlabel and Y label are the titles for the x and y axis and title() is the method used for naming the entire plot. Plt.scatter() will prepare  a scatter plot for the values inserted and .show() will give the plot output. 
-# Recording of ICP2 (Video link): 
+# Recording of ICP4 (Video link): 
 https://youtu.be/Nb10efzPFhM
