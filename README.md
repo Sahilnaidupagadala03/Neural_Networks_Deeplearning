@@ -53,3 +53,15 @@ d: mean_squared_error() function sklearn.metrics will give the mean swaure value
 e: Xlabel and Y label are the titles for the x and y axis and title() is the method used for naming the entire plot. Plt.scatter() will prepare  a scatter plot for the values inserted and .show() will give the plot output. 
 # Recording of ICP4 (Video link): 
 https://youtu.be/Nb10efzPFhM
+
+# Neural_Networks_Deeplearning Assignment 5
+Q1: The Python code uses the Naive Bayes approach to classify a dataset that contains data on various kinds of glass. The first step is to load the required libraries, such as scikit-learn for machine learning features and pandas for data processing. The 'glass.csv' dataset is read into a pandas DataFrame. Next, the train_test_split function from scikit-learn is used to divide the data into training and testing sets. Using the training set of data, a Gaussian Naive Bayes model is trained. Next, predictions on the test data are made using the trained model. Lastly, the code prints the accuracy score after assessing the model's performance using metrics from the classification report. Overall, the code demonstrates a simple implementation of the Gaussian Naive Bayes classifier for glass type classification, including data preprocessing, model training, prediction, and evaluation.
+
+Q2: Another classification challenge utilizing Support Vector Machines (SVM) on a dataset including data on various varieties of glass is represented by the code that has been supplied. First, it imports the required libraries, including metrics to assess the model's performance, pandas for data manipulation, and scikit-learn for machine learning features, such as Support Vector Classification (SVC). A pandas DataFrame is created by reading the file "glass.csv." Next, the train_test_split function from scikit-learn is used to divide the data into training and testing sets. The fit technique is used to instantiate and train an SVM model on the training set. Following training, the test dataset's target variable is predicted using the trained model; these predictions are kept in y_pred. Subsequently, the code evaluates the model's performance using classification report metrics, considering possible zero divisions, and prints the accuracy score using the accuracy_score function.
+
+Accuracy of Naive Bayes: 55.81%
+SVM precision: 32.56%
+Naive Bayes outperforms SVM. The ratio of properly predicted instances to the total number of instances is used to determine accuracy, which is a measure of the classifier's overall correctness. In this instance, the SVM classifier only accurately predicts around 32.56% of the cases, compared to roughly 55.81% for the Naive Bayes classifier. For this reason, Naive Bayes performs more accurately on this specific dataset. 
+
+# Recording of ICP5 (Video link): 
+https://youtu.be/3IgSbw1pbw8
