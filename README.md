@@ -65,3 +65,11 @@ Naive Bayes outperforms SVM. The ratio of properly predicted instances to the to
 
 # Recording of ICP5 (Video link): 
 https://youtu.be/3IgSbw1pbw8
+
+# Neural_Networks_Deeplearning Assignment 6
+1. First, we updated our neural network by adding extra Dense layers to see how this affected accuracy. The data source has been changed to the Breast Cancer Dataset. We shifted our data source to the Breast Cancer dataset, which is crucial for determining whether a patient has malignant or benign cancer. We made the necessary changes and will report the correctness of our model. We also standardized our data before feeding it into the model using StandardScaler.
+2. Image categorization using the MNIST dataset. I plotted the loss and accuracy for both the training and validation data. Next, we chose an image from the test data, plotted it, and used inference to check what the model predicted for that specific image. Our original model consisted of two hidden layers with ReLU activation. We tested with different numbers of hidden layers and activation functions, including tanh and sigmoid. We executed the same code without scaling.
+
+# Recording of ICP6 (Video link): 
+https://youtu.be/6V67Ksxxaeo
+
