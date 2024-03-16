@@ -94,3 +94,4 @@ Provide at least two more visualizations reflecting your solution.
 Provide logical description of which steps lead to improved response for new dataset when compared with baseline model and enhance architecture and what was its impact on architecture behavior.
 
 # Recording of ICP7 (Video link): 
+https://youtu.be/JZZEQKjjQVc
