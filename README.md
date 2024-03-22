@@ -95,3 +95,9 @@ Provide logical description of which steps lead to improved response for new dat
 
 # Recording of ICP7 (Video link): 
 https://youtu.be/JZZEQKjjQVc
+
+# Neural_Networks_Deeplearning Assignment 8
+An additional hidden layer is incorporated into the autoencoder architecture. Prediction on test data is conducted, followed by visualization of both the reconstructed version and original test data using Matplotlib. This process is repeated for a denoising autoencoder. Furthermore, the loss and accuracy are plotted using the history object to provide insights into model performance.
+
+# Recording of ICP8 (Video link): 
+https://youtu.be/aja22NXauPA
