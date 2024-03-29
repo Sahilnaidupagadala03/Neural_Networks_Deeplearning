@@ -101,3 +101,10 @@ An additional hidden layer is incorporated into the autoencoder architecture. Pr
 
 # Recording of ICP8 (Video link): 
 https://youtu.be/aja22NXauPA
+
+# Neural_Networks_Deeplearning Assignment 10
+The assignment involves training a machine learning model to classify text data using a pipeline consisting of TF-IDF vectorization and Support Vector Machine (SVM) classification. GridSearchCV is applied to optimize the hyperparameters of the pipeline for improved performance. After training, the model is saved to disk and subsequently used to predict the classification of new text data.
+
+# Recording of ICP10 (Video link): 
+https://youtu.be/49dgs9aL0q4
+
